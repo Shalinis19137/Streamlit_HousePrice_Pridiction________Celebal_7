@@ -3,6 +3,11 @@
 
 This project is a Machine Learning-based Web App built using Streamlit that predicts house prices based on user-input features such as number of bedrooms, bathrooms, square footage, location, and more. It allows users to interactively input house-related parameters and receive an instant price prediction with visualizations and model insights.
 
+
+
+
+
+
 📌 Project Objective
 The goal of this project is to:
 
@@ -12,6 +17,11 @@ Predict the price of a house using regression models.
 Build an interactive and user-friendly web application using Streamlit.
 
 Demonstrate the end-to-end data science pipeline, from data preprocessing to model deployment.
+
+
+
+
+
 
 
 🧠 Tech Stack
@@ -27,6 +37,11 @@ Demonstrate the end-to-end data science pipeline, from data preprocessing to mod
 📁 Jupyter Notebook / VS Code
 
 ✅ Git & GitHub for version control
+
+
+
+
+
 
 
 
@@ -72,6 +87,11 @@ Used GridSearchCV or RandomizedSearchCV to find the optimal parameters.
 
 
 
+
+
+
+
+
 📊 App Features and Parameters (Explained)
 The Streamlit app lets users input the following parameters:
 
@@ -87,6 +107,11 @@ Furnishing Status	Whether the house is Furnished / Semi-Furnished / Unfurnished.
 Availability	Whether the house is ready to move or under construction.
 
 The model uses these parameters to predict the price using the trained regression model.
+
+
+
+
+
 
 
 
@@ -114,6 +139,12 @@ streamlit run app.py
 
 
 
+
+
+
+
+
+
 📌 Output
 
 
@@ -131,6 +162,12 @@ Clean and responsive UI using Streamlit.
 
 
 
+
+
+
+
+
+
 📦 Future Improvements
 Integrate more location-specific data (like crime rate, school ratings).
 
@@ -139,6 +176,12 @@ Add user authentication for saving predictions.
 Connect to a real-estate database for real-time listings.
 
 Deploy the app on the cloud (e.g., Heroku, AWS, or Streamlit Cloud).
+
+
+
+
+
+
 
 
 
