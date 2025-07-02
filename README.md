@@ -49,6 +49,10 @@ Demonstrate the end-to-end data science pipeline, from data preprocessing to mod
 
 
 
+
+
+
+
 📈 Machine Learning Pipeline
 
 1. Data Preprocessing
@@ -186,4 +190,4 @@ Deploy the app on the cloud (e.g., Heroku, AWS, or Streamlit Cloud).
 
 
 🧑‍💻 Made with ❤️ by Shalini
-This project was developed during my internship at Celebal Technologies as part of my major machine learning project. I faced many errors, iterations, and learnings over 2.5 months, but finally achieved 85% model success and gained a deep understanding of ML workflow and error handling
+This project was developed during my internship at Celebal Technologies as part of my major machine learning project. I faced many errors, iterations, and learnings , but finally achieved 65% model success and gained a deep understanding of ML workflow and error handling
