@@ -6,6 +6,7 @@ This project is a Machine Learning-based Web App built using Streamlit that pred
 📌 Project Objective
 The goal of this project is to:
 
+
 Predict the price of a house using regression models.
 
 Build an interactive and user-friendly web application using Streamlit.
@@ -14,16 +15,24 @@ Demonstrate the end-to-end data science pipeline, from data preprocessing to mod
 
 
 🧠 Tech Stack
+
 🐍 Python
+
 📊 Pandas, NumPy, Matplotlib, Seaborn
+
 🤖 Scikit-learn (Machine Learning models)
+
 🌐 Streamlit (for web app UI)
+
 📁 Jupyter Notebook / VS Code
+
 ✅ Git & GitHub for version control
 
 
 
+
 📈 Machine Learning Pipeline
+
 1. Data Preprocessing
 Missing Values Handling: Filled or removed missing entries.
 
@@ -59,6 +68,7 @@ Used GridSearchCV or RandomizedSearchCV to find the optimal parameters.
 
 
 
+
 📊 App Features and Parameters (Explained)
 The Streamlit app lets users input the following parameters:
 
@@ -74,6 +84,7 @@ Furnishing Status	Whether the house is Furnished / Semi-Furnished / Unfurnished.
 Availability	Whether the house is ready to move or under construction.
 
 The model uses these parameters to predict the price using the trained regression model.
+
 
 
 
@@ -99,11 +110,11 @@ Edit
 streamlit run app.py
 
 
+
 📌 Output
 A live prediction of the house price based on real-time user input.
 
 Data visualization (such as heatmaps, distribution plots) to help users understand features and correlations.
-
 Clean and responsive UI using Streamlit.
 
 
@@ -114,8 +125,8 @@ Integrate more location-specific data (like crime rate, school ratings).
 Add user authentication for saving predictions.
 
 Connect to a real-estate database for real-time listings.
-
 Deploy the app on the cloud (e.g., Heroku, AWS, or Streamlit Cloud).
+
 
 
 🧑‍💻 Made with ❤️ by Shalini
