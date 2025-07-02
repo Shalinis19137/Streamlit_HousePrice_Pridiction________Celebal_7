@@ -31,6 +31,9 @@ Demonstrate the end-to-end data science pipeline, from data preprocessing to mod
 
 
 
+
+
+
 📈 Machine Learning Pipeline
 
 1. Data Preprocessing
@@ -112,10 +115,19 @@ streamlit run app.py
 
 
 📌 Output
+
+
+
+
 A live prediction of the house price based on real-time user input.
 
 Data visualization (such as heatmaps, distribution plots) to help users understand features and correlations.
+
 Clean and responsive UI using Streamlit.
+
+
+
+
 
 
 
@@ -125,6 +137,7 @@ Integrate more location-specific data (like crime rate, school ratings).
 Add user authentication for saving predictions.
 
 Connect to a real-estate database for real-time listings.
+
 Deploy the app on the cloud (e.g., Heroku, AWS, or Streamlit Cloud).
 
 
